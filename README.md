@@ -54,13 +54,13 @@ FastCart efficiently manages the database for products, pricing, discounts, and 
 ![image](https://github.com/Chiragjain7254/FastCart/assets/93074682/b4b2809f-d498-4deb-8b9b-f9183c6d7d4a)
 
 
-![Administrator Menu](/path/to/admin_menu.png)
+![Administrator Menu]
 ![image](https://github.com/Chiragjain7254/FastCart/assets/93074682/846aac04-0ee3-4972-a3a2-d367946f2719)
 ![image](https://github.com/Chiragjain7254/FastCart/assets/93074682/f0f92286-ff99-4bf8-bf8c-b43827ed9191)
 
 
 
-![Buyer Menu](/path/to/buyer_menu.png)
+![Buyer Menu]
 
 ![image](https://github.com/Chiragjain7254/FastCart/assets/93074682/5b57c040-b660-4f68-b2f7-b0b2b6212681)
 
